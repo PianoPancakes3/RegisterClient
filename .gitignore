@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .gradle
 /local.properties
 /.idea/workspace.xml
@@ -7,3 +8,10 @@
 /gradle
 /captures
 
+=======
+.settings/
+.mvn/
+mvnw
+mvnw.cmd
+target/
+>>>>>>> de69e9a8473a5409a313f00edca8fde77c79f51e
